@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "machine-translation"
+name = "machinetranslation"
 version = "0.1.0"
 description = ""
 authors = ["user0 <dylan.p.maus@gmail.com>"]
 readme = "README.md"
-packages = [{include = "machine_translation"}]
+packages = [{include = "machinetranslation"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
